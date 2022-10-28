@@ -25,7 +25,10 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<div aligin="center" width="100%"><img aligin="center" src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"><img aligin="center" src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></div>
+<p align="center">
+  <code><img src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
+  <code><img src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
+</p>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
