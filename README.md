@@ -7,7 +7,7 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software DevelopFer from Turkey
+  Hi, I'm Guanglan Chen, Research Assistant & Computer Engineer & Software DevelopFer from Henan, China
   <br>
   🎓 I graduated from HIST University Computer Engineering Department
   <br>
