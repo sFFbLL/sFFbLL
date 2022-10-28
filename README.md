@@ -25,7 +25,7 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<img src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif">
+<div aligin="center"><img src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"><div>
 <p align="center">
   <code><img title="Go" height="25" src="images/b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
