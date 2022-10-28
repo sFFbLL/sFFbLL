@@ -5,38 +5,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software DevelopFer from Turkey
   <br>
-  <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I graduated from HIST University Computer Engineering Department
   <br>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💻 I love golang!!
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  📚 I’m currently learning how to build Website with Gin
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: cglanfliggy@164.com">cglanfliggy@163.com</a>
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+  <code><img title="Go" height="25" src="images/"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -64,7 +54,6 @@
 </h4>
 
 
-<!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -83,4 +72,3 @@ Notes: If you want use this readme, firstly star it please. If you can't align y
 
 ![Metrics](https://metrics.lecoq.io/sFFbLL?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
--->
