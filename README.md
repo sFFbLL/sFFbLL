@@ -26,8 +26,8 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img padding-right="50px" src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
-  <code><img padding-left="50px" src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
+  <code><img  src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
+  <code><img style="padding-left:100px" src="images/0b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
 </p>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
