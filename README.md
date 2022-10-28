@@ -26,7 +26,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Go" height="25" src="images/"></code>
+  <code><img title="Go" height="25" src="images/b84ea07-b1bc-4b65-bd60-d187be0b57ed.gif"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
